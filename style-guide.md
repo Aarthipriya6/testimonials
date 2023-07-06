@@ -20,7 +20,6 @@ White: hsl(0, 0%, 100%)
 
 Light gray: hsl(0, 0%, 81%)
 Light grayish blue: hsl(210, 46%, 95%)
-
 Note for text colors:
 
 1. "Verified Graduate" has the same color as the person's name with 50% opacity
